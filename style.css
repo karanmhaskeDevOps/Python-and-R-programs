@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0%;
+border-color: wheat;
+ 
+color: rgb(23, 13, 1);
+}
+#navbar{
+    height: 50px;
+    background-color: #0f1111;
+
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+font-size: 25px;}
+a{
+    margin-right: 200px;
+}
+.contetbox{
+    background-color: aqua;
+border: 2px solid #0f1111;
+}
+ footer{
+    text-align: center;
+    background-color: #0f1111;  
+ }
+ #ii{
+    border: white;
+    padding: 45%;
+ }
